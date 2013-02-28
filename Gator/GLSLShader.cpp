@@ -1,6 +1,7 @@
 //A simple class for handling GLSL shader compilation
 //Author: Movania Muhammad Mobeen
 //Last Modified: February 2, 2011
+////////////////////////////////////////////////
 
 #include "GLSLShader.h"
 #include <iostream>
